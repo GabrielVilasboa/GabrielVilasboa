@@ -4,13 +4,12 @@
 
 Olá! Meu nome é Gabriel Vilasboa e sou estudante de Engenharia de Software com grande paixão pela tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web e mobile, buscando constantemente novos conhecimentos e desafios.
 
-## Habilidades 🚀
+## Habilidades / Experiencias  🚀
 
-- Controle de versionamento com Git e GitHub 💻
-- Programação web com JavaScript e PHP 🌐
-- Banco de dados MySQL 📊
-- Programação orientada a objetos 🛠️
-- Desenvolvimento Android com Java e Kotlin 🎨
+- Programação web com Vue.js e Laravel🌐
+- Banco de dados SQL 📊
+- Desenvolvimento Mobile 🎨
+- Vontede de aprender mais sempre 📖
 
 ## Projetos 📁
 
@@ -18,6 +17,7 @@ Aqui estão alguns dos meus projetos recentes no GitHub:
 
 - UserAuthenticationWeb - Um projeto de autenticação de usuários utilizando PHP, JavaScript, MySQL, HTML, CSS e Bootstrap 🚀
 - CodeBank - Um projeto mobile feito usando Java no Android Studio e o Firebase 🔥
+- Além desses tenhos vários outros projetos em meus repositórios. 
 
 Caso você tenha interesse, sinta-se à vontade para visitar os repositórios acima e explorar o código. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato comigo.
 
