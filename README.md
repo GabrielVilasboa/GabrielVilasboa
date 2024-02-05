@@ -14,6 +14,7 @@ Atualmente estou trabalhando como Dev Aprendiz na empresa Meta. Lá tenho me ave
 - Banco de dados SQL 📊
 - Versionamento de Código ✔️
 - Desenvolvimento Agil com Scrum 🥇
+- Desenvolvimento de apis rest com Django e Laravel 🐍 
 - Programação web com Vue.js e Laravel🌐
 - Vontede de aprender mais sempre 📖
 
@@ -21,6 +22,7 @@ Atualmente estou trabalhando como Dev Aprendiz na empresa Meta. Lá tenho me ave
 
 Aqui estão alguns dos meus projetos recentes no GitHub:
 
+- AppFinance - Um app de organização financeira que atendera todas as plataformas. Utilizando flutter, Python, e possivelmente React ou Vue.js álem de outras ferramentas 👾 
 - Tasks - App flutter de organização de tarefas. 📘
 - UserAuthenticationWeb - Um projeto de autenticação de usuários utilizando PHP, JavaScript, MySQL, HTML, CSS e Bootstrap 🚀
 - Além desses tenhos vários outros projetos em meus repositórios. 
@@ -34,10 +36,6 @@ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma
 ## Estatísticas 📈
 
 ![Estatísticas do GitHub de Gabriel Vilasboa](https://github-readme-stats.vercel.app/api?username=gabrielvilasboa&show_icons=true&theme=radical)
-
-Aqui estão as linguagens mais usadas nos meus repositórios do GitHub:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVilasboa)](https://github.com/GabrielVilasboa)
 
 ## Obrigado por visitar meu perfil! 🙏
 
