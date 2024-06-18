@@ -20,9 +20,8 @@ Atualmente estou trabalhando como Dev Aprendiz na empresa Meta. Lá tenho me ave
 
 ## Projetos 📁
 
-Aqui estão alguns dos meus projetos recentes no GitHub:
+Aqui estão alguns dos meus projetos no GitHub:
 
-- AppFinance - Um app de organização financeira que atendera todas as plataformas. Utilizando flutter, Python, e possivelmente React ou Vue.js álem de outras ferramentas 👾 
 - Tasks - App flutter de organização de tarefas. 📘
 - UserAuthenticationWeb - Um projeto de autenticação de usuários utilizando PHP, JavaScript, MySQL, HTML, CSS e Bootstrap 🚀
 - Além desses tenhos vários outros projetos em meus repositórios. 
