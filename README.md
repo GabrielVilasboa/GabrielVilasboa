@@ -1,31 +1,31 @@
-# Bem-vindo ao meu perfil no GitHub! 👋
+# Welcome to my GitHub Profile! 👋
 
-## Sobre mim 🙋‍♂️
+## About Me 🙋‍♂️
 
-Olá! Meu nome é Gabriel Vilasboa e sou estudante de Engenharia de Software com grande paixão pela tecnologia e programação. Atualmente, estou focado em aprimorar minhas habilidades como desenvolvedor, buscando constantemente novos conhecimentos e desafios.
+Hello! My name is Gabriel Vilasboa, and I am a Software Engineering student with a strong passion for technology and programming. I am currently focused on improving my skills as a developer, constantly seeking new knowledge and challenges.
 
-## Experiencia Profissional 👷
+## Professional Experience 👷
 
-Atuei como desenvolvedor na empresa Meta, onde trabalhei no aprimoramento e sustentação de um app web interno da empresa, usando laravel, vue.js, mySQL, Docker entre outras tecnologias. Também atuei como desenvolvedor junto ao time de dados da empresa, buscando soluções em python, orquestrando dags com o airflow, e atuando criando e editando Cloud functions na Google Clould Plataform (GCP)
+I worked as a developer at Meta, where I contributed to the improvement and maintenance of an internal web app, using technologies such as Laravel, Vue.js, MySQL, Docker, and others. I also worked with the company's data team, developing solutions in Python, orchestrating DAGs with Airflow, and creating and editing Cloud Functions on the Google Cloud Platform (GCP).
 
-## Habilidades 🚀
+## Skills 🚀
 
-- Desenvolvimento Web 💻
-- Banco de dados SQL 📊
-- Versionamento de Código ✔️
-- Desenvolvimento Agil com Scrum 🥇
-- Desenvolvimento de apis rest com Django e FastAPI🐍 
-- Programação web com Vue.js e Laravel🌐
-- Vontede de aprender mais sempre 📖
+- Web Development 💻
+- SQL Databases 📊
+- Code Versioning ✔️
+- Agile Development with Scrum 🥇
+- REST API Development with Django and FastAPI 🐍 
+- Web Programming with Vue.js and Laravel 🌐
+- Always eager to learn more 📖
 
-## Contato 📧
+## Contact 📧
 
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem através do meu [LinkedIn](https://www.linkedin.com/in/gabriel-vilasboa-551428207/).
+If you'd like to get in touch with me, feel free to send me a message via my [LinkedIn](https://www.linkedin.com/in/gabriel-vilasboa-551428207/).
 
-## Estatísticas 📈
+## Statistics 📈
 
-![Estatísticas do GitHub de Gabriel Vilasboa](https://github-readme-stats.vercel.app/api?username=gabrielvilasboa&show_icons=true&theme=radical)
+![Gabriel Vilasboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvilasboa&show_icons=true&theme=radical)
 
-## Obrigado por visitar meu perfil! 🙏
+## Thank You for Visiting My Profile! 🙏
 
-Obrigado por visitar meu perfil do GitHub. Se você gostou do que viu, não hesite em me seguir e fique por dentro das minhas novidades e projetos futuros! 🚀🚀
+Thank you for stopping by my GitHub profile. If you liked what you saw, don't hesitate to follow me and stay updated on my latest projects and future endeavors! 🚀🚀
