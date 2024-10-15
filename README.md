@@ -22,10 +22,6 @@ I worked as a developer at Meta, where I contributed to the improvement and main
 
 If you'd like to get in touch with me, feel free to send me a message via my [LinkedIn](https://www.linkedin.com/in/gabriel-vilasboa-551428207/).
 
-## Statistics 📈
-
-![Gabriel Vilasboa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielvilasboa&show_icons=true&theme=radical)
-
 ## Thank You for Visiting My Profile! 🙏
 
 Thank you for stopping by my GitHub profile. If you liked what you saw, don't hesitate to follow me and stay updated on my latest projects and future endeavors! 🚀🚀
